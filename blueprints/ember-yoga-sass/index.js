@@ -1,6 +1,5 @@
 /*jshint node:true*/
 var RSVP  = require('rsvp');
-var chalk = require('chalk');
 
 module.exports = {
   description: 'install ember-material-lite into a typical project',
